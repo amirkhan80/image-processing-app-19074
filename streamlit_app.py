@@ -101,3 +101,4 @@ st.download_button(
 st.sidebar.markdown("---")
 st.sidebar.write("Image size:", f"{original.width} x {original.height} pixels")
 st.sidebar.write("Mode:", original.mode)
+
